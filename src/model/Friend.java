@@ -10,5 +10,4 @@ public interface Friend {
 
     public String getfName();
 }
-//kdckhkfkfkacf kfcfb cfahfhfhf
-//        \fkfjaklchfhalh
+//111111111111111111
