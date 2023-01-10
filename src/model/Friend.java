@@ -1,5 +1,5 @@
 package model;
-
+//git experiment
 import javax.swing.ImageIcon;
 
 public interface Friend {
